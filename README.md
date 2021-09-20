@@ -7,6 +7,16 @@ Take care to avoid any problematic stuff, we are not responsible for any problem
 
 It is expected that the package works with any device capable.
 
+# Recomendations
+We recomend the package usage with some configurations:
+
+* FAT32 (SD card)
+* emuMMC (partition or file based)
+* OFW access via hekate->reboot->OFW
+
+The package expects that you use it on that way. To open HBMenu, hold R and open the Album. To acess SysNAND directly from 
+`hekate`, select reboot->OFW on the main screen.
+
 ## Packages on Release
 
 We provide an AIO package named BlackPearl as the infamous ship from Captain
