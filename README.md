@@ -15,7 +15,7 @@ We recomend the package usage with some configurations:
 * OFW access via hekate->reboot->OFW
 
 The package expects that you use it on that way. To open HBMenu, hold R and open the Album. To acess SysNAND directly from 
-`hekate`, select reboot->OFW on the main screen.
+`hekate`, select `reboot->OFW` on the main screen.
 
 ## Packages on Release
 
