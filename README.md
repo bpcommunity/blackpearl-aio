@@ -5,17 +5,17 @@ We create the BPbuilder from the idea of DeepSea to build Black Pearl AIO packag
 Our AIO package are available on [releases](https://github.com/bpcommunity/blackpearl-aio/releases).
 Take care to avoid any problematic stuff, we are not responsible for any problems that you can have.
 
-It is expected that the package works with any device capable.
+It is expected that the package works with any device capable. We use a scheme to load *payload.bin* with
+different devices without changes. Don't forget to update your device *payload.bin* with the most recent
+one.
 
 # Recomendations
 We recomend the package usage with some configurations:
 
 * FAT32 (SD card)
 * emuMMC (partition or file based)
-* OFW access via hekate->reboot->OFW
 
-The package expects that you use it on that way. To open HBMenu, hold R and open the Album. To acess SysNAND directly from 
-`hekate`, select reboot->OFW on the main screen.
+The package expects that you use it on that way. To open HBMenu, **hold R** and open the Album.
 
 ## Packages on Release
 
