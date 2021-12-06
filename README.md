@@ -23,17 +23,26 @@ We provide an AIO package named BlackPearl as the infamous ship from Captain
 Jack Sparrow. It's just for fun, focus our work on stability, simplicity and cleanness.
 Our default package has:
 
-| Software                                                         	| Pearl Edition 	|
-|------------------------------------------------------------------	|:-------------:	|
-| [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere)        	|       ✅       	|
-| [Hekate](https://github.com/CTCaer/hekate)                       	|       ✅       	|
-| [JKSV](https://github.com/J-D-K/JKSV)                            	|       ✅       	|
-| [NX-Shell](https://github.com/joel16/NX-Shell)                   	|       ✅       	|
-| [FTPd](https://github.com/mtheall/ftpd)                          	|       ✅       	|
-| [Tinfoil](https://tinfoil.io)                                    	|       ✅       	|
-| [DBI](https://github.com/rashevskyv/dbi)                         	|       ✅       	|
-| [NX-Activity-Log](https://github.com/tallbl0nde/NX-Activity-Log) 	|       ✅       	|
-| [Patches](https://github.com/ITotalJustice/patches)              	|       ✅       	|
+| Software                                                              | Mini | Kraken |
+|-----------------------------------------------------------------------|------|--------|
+| [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere)             | ✅    | ✅      |
+| [Hekate](https://github.com/CTCaer/hekate)                            | ✅    | ✅      |
+| [JKSV](https://github.com/J-D-K/JKSV)                                 | ✅    | ✅      |
+| [NX-Shell](https://github.com/joel16/NX-Shell)                        | ✅    | ✅      |
+| [FTPd](https://github.com/mtheall/ftpd)                               | ✅    | ✅      |
+| [Tinfoil](https://tinfoil.io)                                         | ✅    | ✅      |
+| [DBI](https://github.com/rashevskyv/dbi)                              | ✅    | ✅      |
+| [NX-Activity-Log](https://github.com/tallbl0nde/NX-Activity-Log)      | ✅    | ✅      |
+| [Patches](https://github.com/ITotalJustice/patches)                   | ✅    | ✅      |
+| [NXThemesInstaller](https://github.com/exelix11/SwitchThemeInjector/) |      | ✅      |
+| [SysDVR](https://github.com/exelix11/SysDVR)                          |      | ✅      |
+| [Sys-Clk](https://github.com/retronx-team/sys-clk)                    |      | ✅      |
+| [pPlay](https://github.com/Cpasjuste/pplay)                           |      | ✅      |
+| [EdiZon](https://github.com/tomvita/EdiZon-SE/)                       |      | ✅      |
+| [Tesla-Menu](https://github.com/WerWolv/Tesla-Menu/)                  |      | ✅      |
+| [Mission Control](https://github.com/ndeadly/MissionControl/)         |      | ✅      |
+| [ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/)                  |      | ✅      |
+| [emuiibo](https://github.com/XorTroll/emuiibo/)                       |      | ✅      |
 
 All software used is public on the Internet, and we just merge them. Our intention is
 for study only and to use everything as intended to be used.
