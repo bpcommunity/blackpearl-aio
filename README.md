@@ -34,6 +34,7 @@ Our default package has:
 | [DBI](https://github.com/rashevskyv/dbi)                              | ✅    | ✅      |
 | [NX-Activity-Log](https://github.com/tallbl0nde/NX-Activity-Log)      | ✅    | ✅      |
 | [Patches](https://github.com/ITotalJustice/patches)                   | ✅    | ✅      |
+| [NXGallery](https://github.com/iultimatelp/nxgallery)                 |✅     | ✅      |
 | [NXThemesInstaller](https://github.com/exelix11/SwitchThemeInjector/) |      | ✅      |
 | [SysDVR](https://github.com/exelix11/SysDVR)                          |      | ✅      |
 | [Sys-Clk](https://github.com/retronx-team/sys-clk)                    |      | ✅      |
