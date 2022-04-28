@@ -34,7 +34,8 @@ Our default package has:
 | [DBI](https://github.com/rashevskyv/dbi)                              | ✅    | ✅      |
 | [NX-Activity-Log](https://github.com/tallbl0nde/NX-Activity-Log)      | ✅    | ✅      |
 | [Patches](https://github.com/ITotalJustice/patches)                   | ✅    | ✅      |
-| [NXGallery](https://github.com/iultimatelp/nxgallery)                 |✅     | ✅      |
+| [NXGallery](https://github.com/iultimatelp/nxgallery)                 | ✅    | ✅      |
+| [BP-Updater](https://github.com/bpcommunity/bp-updater)               | ✅    | ✅      |
 | [NXThemesInstaller](https://github.com/exelix11/SwitchThemeInjector/) |      | ✅      |
 | [SysDVR](https://github.com/exelix11/SysDVR)                          |      | ✅      |
 | [Sys-Clk](https://github.com/retronx-team/sys-clk)                    |      | ✅      |
@@ -49,5 +50,6 @@ All software used is public on the Internet, and we just merge them. Our intenti
 for study only and to use everything as intended to be used.
 
 ## Credits
-* Thanks to DeepSea Team, it helps us a lot on our own builder.
+* Thanks to [DeepSea Team](https://github.com/Team-Neptune/DeepSea), it helps us a lot on our own builder.
+* Thanks to [HamletDuFromage](https://github.com/HamletDuFromage/aio-switch-updater) for his awesome homebrew.
 * And a huge thanks to all the awesome homebrew developers!
